@@ -8,5 +8,6 @@ namespace pis1
 {
     class NewClass1
     {
+        int a;
     }
 }
