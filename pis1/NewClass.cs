@@ -8,6 +8,8 @@ namespace pis1
 {
     class NewClass
     {
+        int a;
+        int b;
     }
 }
 #klasabrate

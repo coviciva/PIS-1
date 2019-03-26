@@ -8,6 +8,10 @@ namespace pis1
 {
     class NewClass1
     {
-        int a;
+<<<<<<< HEAD
+        
+=======
+        char c;
+>>>>>>> 28f0864663bf650523b1c0a51eaf0163772008df
     }
 }
